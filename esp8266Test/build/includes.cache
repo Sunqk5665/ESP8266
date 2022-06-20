@@ -1,0 +1,27 @@
+[
+  {
+    "Sourcefile": "",
+    "Include": "",
+    "Includepath": "C:\\Users\\Sunqker\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\2.6.3\\cores\\esp8266"
+  },
+  {
+    "Sourcefile": "",
+    "Include": "",
+    "Includepath": "C:\\Users\\Sunqker\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\2.6.3\\variants\\nodemcu"
+  },
+  {
+    "Sourcefile": "c:\\Users\\Sunqker\\Desktop\\esp8266Test\\build\\sketch\\DHT11Test.ino.cpp",
+    "Include": "dht11.h",
+    "Includepath": "C:\\Users\\Sunqker\\Documents\\Arduino\\libraries\\dht11"
+  },
+  {
+    "Sourcefile": "c:\\Users\\Sunqker\\Desktop\\esp8266Test\\build\\sketch\\DHT11Test.ino.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "C:\\Users\\Sunqker\\Documents\\Arduino\\libraries\\dht11\\dht11.cpp",
+    "Include": "",
+    "Includepath": ""
+  }
+]
